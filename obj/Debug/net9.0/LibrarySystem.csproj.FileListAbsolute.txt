@@ -1,0 +1,14 @@
+C:\Users\sameh\OneDrive\Desktop\LibraryManagementSystem\LibrarySystem\bin\Debug\net9.0\LibrarySystem.exe
+C:\Users\sameh\OneDrive\Desktop\LibraryManagementSystem\LibrarySystem\bin\Debug\net9.0\LibrarySystem.deps.json
+C:\Users\sameh\OneDrive\Desktop\LibraryManagementSystem\LibrarySystem\bin\Debug\net9.0\LibrarySystem.runtimeconfig.json
+C:\Users\sameh\OneDrive\Desktop\LibraryManagementSystem\LibrarySystem\bin\Debug\net9.0\LibrarySystem.dll
+C:\Users\sameh\OneDrive\Desktop\LibraryManagementSystem\LibrarySystem\bin\Debug\net9.0\LibrarySystem.pdb
+C:\Users\sameh\OneDrive\Desktop\LibraryManagementSystem\LibrarySystem\obj\Debug\net9.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sameh\OneDrive\Desktop\LibraryManagementSystem\LibrarySystem\obj\Debug\net9.0\LibrarySystem.AssemblyInfoInputs.cache
+C:\Users\sameh\OneDrive\Desktop\LibraryManagementSystem\LibrarySystem\obj\Debug\net9.0\LibrarySystem.AssemblyInfo.cs
+C:\Users\sameh\OneDrive\Desktop\LibraryManagementSystem\LibrarySystem\obj\Debug\net9.0\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\sameh\OneDrive\Desktop\LibraryManagementSystem\LibrarySystem\obj\Debug\net9.0\LibrarySystem.dll
+C:\Users\sameh\OneDrive\Desktop\LibraryManagementSystem\LibrarySystem\obj\Debug\net9.0\refint\LibrarySystem.dll
+C:\Users\sameh\OneDrive\Desktop\LibraryManagementSystem\LibrarySystem\obj\Debug\net9.0\LibrarySystem.pdb
+C:\Users\sameh\OneDrive\Desktop\LibraryManagementSystem\LibrarySystem\obj\Debug\net9.0\LibrarySystem.genruntimeconfig.cache
+C:\Users\sameh\OneDrive\Desktop\LibraryManagementSystem\LibrarySystem\obj\Debug\net9.0\ref\LibrarySystem.dll

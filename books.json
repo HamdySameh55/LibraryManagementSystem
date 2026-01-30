@@ -1,0 +1,15 @@
+[
+  {
+    "Id": 1,
+    "Title": "hamdy",
+    "Author": "hamdy",
+    "ISBN": "456",
+    "Publisher": "",
+    "PublishDate": null,
+    "Category": "hh",
+    "Price": 12,
+    "TotalCopies": 55,
+    "AvailableCopies": 55,
+    "Status": 0
+  }
+]
